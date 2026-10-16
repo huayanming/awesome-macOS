@@ -286,7 +286,7 @@
 - [DaisyDisk](https://daisydiskapp.com/) - Analyze disk usage and free up disk space.
 - [Deliveries](http://junecloud.com/software/mac/deliveries.html) - Beautiful and simple package tracking.
 - [DisableMonitor](https://github.com/Eun/DisableMonitor) - Easily disable or enable a monitor on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/Eun/DisableMonitor) ![Freeware][Freeware Icon]
-- [DisplayPilot](https://huayanming.github.io/displaypilot/) - Control external display brightness, volume and input source, with gamma-table dimming when a panel does not answer DDC/CI, plus colour calibration and quarantine-first cache cleanup.
+- [DisplayPilot](https://huayanming.github.io/displaypilot/?src=awesome-macos) - Control external display brightness, volume and input source, with gamma-table dimming when a panel does not answer DDC/CI, plus colour calibration and quarantine-first cache cleanup.
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide MacOS menubar items. [![Open-Source Software][OSS Icon]](https://github.com/Mortennn/Dozer) ![Freeware][Freeware Icon]
 - [EtreCheck](http://etrecheck.com) - Output system information and configuration to get more informed help from Apple support professionals. ![Freeware][Freeware Icon]
 - [Equinox](https://equinoxmac.com) - Create macOS dynamic wallpapers. [![Open-Source Software][OSS Icon]](https://github.com/rlxone/Equinox) ![Freeware][Freeware Icon]
